@@ -3,7 +3,7 @@ A simple decaptcher wrapper
 
 ## installation
 
-    $ npm install git://github.com/icodeforlove/node-decaptcher.git
+    $ npm install git+ssh://git@github.com:icodeforlove/node-decaptcher.git
 
 ## super simple to use
 
