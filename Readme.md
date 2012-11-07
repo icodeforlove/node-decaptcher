@@ -12,7 +12,7 @@ submit an image
 var Decaptcher = require('decaptcher'),
 	decaptcher = new Decaptcher({key: /* key */});
 
-decaptcher.submitCaptcha(/* IMAGE URL */, function (decoded, gen_task_id) {
+decaptcher.submitCaptcha(/* image URL or Buffer */, function (decoded, gen_task_id) {
 	console.log(arguments);
 });
 ```
