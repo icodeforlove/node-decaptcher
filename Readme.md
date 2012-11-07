@@ -1,9 +1,9 @@
-## node-request
+## node-decaptcher
 A simple decaptcher wrapper
 
 ## installation
 
-    $ npm install git+ssh://git@github.com:icodeforlove/node-decaptcher.git
+    $ npm install decaptcher
 
 ## super simple to use
 

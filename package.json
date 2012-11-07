@@ -1,6 +1,6 @@
 {
   "name": "decaptcher",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "decaptcher node api wrapper",
   "main": "index.js",
   "directories": {
@@ -9,12 +9,10 @@
   },
   "dependencies": {
     "randomstring-extended": "1.0.0",
-    "request": "git+ssh://git@github.com:icodeforlove/node-request.git#0.1.0"
+    "requester": ">=0.1.5"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "http://github.com/icodeforlove/node-decaptcher.git"
