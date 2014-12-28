@@ -21,12 +21,12 @@ get a refund
 ```javascript
 decaptcher.getRefund(/* gen_task_id */, function (data) {
 	
-}
+});
 ```
 
 get your balance
 ```javascript
 decaptcher.getBalance(function (data) {
 	
-})
+});
 ```
